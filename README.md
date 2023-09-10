@@ -1,3 +1,6 @@
 # Parsers
 Parsers projects with requests, bs4, Selenium
-Назание репозитория обозначает откуда парсились данные
+<p align="center">
+  Назание репозитория обозначает откуда парсились данные.
+</p>
+
